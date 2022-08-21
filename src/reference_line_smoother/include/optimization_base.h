@@ -7,6 +7,7 @@
 
 #include <boost/log/trivial.hpp>
 
+
 namespace optimization
 {
 namespace osqp_optimization
